@@ -11,7 +11,7 @@ http://arduino.esp8266.com/stable/package_esp8266com_index.json
 https://dl.espressif.com/dl/package_esp32_index.json
 http://digistump.com/package_digistump_index.json
  ```
-[2]()) Navigate to `Tools -> Board -> Boards Manager` and install either "esp32" or "esp8266"
+[2]()) Navigate to `Tools -> Board -> Boards Manager` and install either "esp32" or "esp8266"\
 [3]()) Exit and reopen the Arduino IDE\
 [4]()) Open the corresponding .ino file found here: [ESP32](https://github.com/mb822/AguaClara-NJIT-Sensor-Code/blob/main/ESP32Sensor.ino) or [ESP8266](https://github.com/mb822/AguaClara-NJIT-Sensor-Code/blob/main/ESP8266Sensor.ino)\
 [5]()) Toward the top of the code you will see fields for ssid, password, and sensor id. Replace these fields with your network information and sensor id\
