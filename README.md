@@ -13,7 +13,7 @@ http://digistump.com/package_digistump_index.json
  ```
  0.2) Exit and reopen the Arduino IDE
  
-1) Paste the corresponding version of the code into the editor - (ESP32)[https://github.com/mb822/AguaClara-NJIT-Sensor-Code/edit/main/ESP32Code.ino] - (ESP8266)[https://github.com/mb822/AguaClara-NJIT-Sensor-Code/edit/main/ESP8266Code.ino]
+1) Paste the corresponding version of the code into the editor - [ESP32](https://github.com/mb822/AguaClara-NJIT-Sensor-Code/edit/main/ESP32Code.ino) - [ESP8266](https://github.com/mb822/AguaClara-NJIT-Sensor-Code/edit/main/ESP8266Code.ino)
 2) Toward the top of the code you will see fields for ssid, password, and sensor id. Replace these fields with your network information and sensor id. 
 3) Plug your ESP32/ESP8266 into your computer
 4) Navigate to 'Tools -> Board' and select either 'ESP32 Dev Module' or 'Generic ESP8266 Module'
