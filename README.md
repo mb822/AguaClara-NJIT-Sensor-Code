@@ -3,7 +3,7 @@
 
 ### If you are new to the ESP8266 or ESP32 modules, follow these steps to successfully upload the code to the modules:
 
-[0]()) Open the Arduino ID\
+[0]()) Open the Arduino IDE\
 [1]()) Navigate to 'Arduino -> Preferences -> Additional Boards Manager URLs' and paste the following:
  ```cpp
 http://digistump.com/package_digistump_index.json
