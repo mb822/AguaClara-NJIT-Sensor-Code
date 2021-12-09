@@ -1,5 +1,5 @@
 # ESP 8266/32 Sensor Test Code
-## ultra basic sketch for testing 
+## ultra basic sketch for internal testing 
 
 ### If you are new to the ESP8266 or ESP32 modules, follow these steps to successfully upload the code to the modules:
 
