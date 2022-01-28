@@ -6,9 +6,9 @@
 [0]()) Open the Arduino IDE\
 [1]()) Navigate to `Arduino -> Preferences -> Additional Boards Manager URLs` and paste the following:
  ```cpp
-http://digistump.com/package_digistump_index.json
-http://arduino.esp8266.com/stable/package_esp8266com_index.json
-https://dl.espressif.com/dl/package_esp32_index.json
+http://digistump.com/package_digistump_index.json,
+http://arduino.esp8266.com/stable/package_esp8266com_index.json,
+https://dl.espressif.com/dl/package_esp32_index.json,
 http://digistump.com/package_digistump_index.json
  ```
 [2]()) Navigate to `Tools -> Board -> Boards Manager` and install either "esp32" or "esp8266"\
