@@ -20,3 +20,7 @@ http://digistump.com/package_digistump_index.json
 [8]()) Navigate to `Tools -> Port` and select the correct port (if you are not sure what port to select, unplug you module, take a note of the ports, plug the module back in, and select the port that did not appear when the module was disconnected)(if you dont see a new port, your micro usb cable is likely power only or damaged. If you are sure that the cable is not damaged and supports data transfer and the new port does not appear, you may need to download and install the [USB to UART Driver](https://www.silabs.com/developers/usb-to-uart-bridge-vcp-drivers))\
 [9]()) Click 'upload' (circluar button with arrow pointing right, found at the top left-hand side of the window)(with ESP32 you may have to press and hold down the BOOT button during this step; you can release as soon as you see an upload progress percent)\
 [10]()) Give it a minute and your all set!
+
+---
+
+# Alternatively, this code can be installed using the [AguaClara Web Installer](https://web.njit.edu/~mb822/aguaclaranjit/install)
